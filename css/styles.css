@@ -1,0 +1,127 @@
+.topContainer {
+    background-color: #e4f9f5;
+    margin: 0px;
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+
+h1 {
+    color: #66bfbf;
+    margin: 30px auto 0px auto;
+    font-size: 5.62rem; /*1em = 16px = 100% */
+    font-family: 'Sacramento', Serif, cursive;
+    padding-top: 50px;
+
+}
+
+h2, h3 {
+    font-family: "Montserrat Light", sans-serif;
+    color: #66bfbf;
+
+}
+
+h3 {
+    color: #11999e;
+}
+
+body {
+    margin: 0px;
+    font-family: 'Merriweather Light', serif;
+}
+
+.middle-container {
+    text-align: center;
+
+}
+
+.bottom-container {
+    margin: 40px auto 0px auto;
+    text-align: center;
+    background-color: #66BFBF;
+    padding: 20px;
+}
+
+.bottom-container p {
+    font-size: 0.6rem;
+    color: #EAF6F6;
+    padding: 20px 0px 0px 0px;
+}
+
+.bottom-container a {
+    padding: 20px 20px 20px 20px;
+    color: #11999E;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+}
+
+.image {
+    position: absolute;
+    top: -50px;
+}
+
+.bottomCloud {
+    position: absolute;
+}
+
+.topCloud {
+    position: absolute;
+    right: 30%;
+    top: 40px;
+}
+
+.topContainer p {
+    position: relative;
+    font-size: 1.9rem;
+    top: -20px;
+    color: #66bfbf;
+    font-family: "Montserrat Light", sans-serif;
+    /*font-weight: normal;*/
+}
+
+.skill-row {
+    width: 50%;
+    /*display: inline-block;*/
+    margin: 100px auto;
+    line-height: 1.5;
+    text-align: left;
+}
+
+
+
+.python {
+    /*width: 30%;*/
+    float: left;
+    margin-right: 30px;
+}
+
+.js {
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+
+hr{
+    width: 30%;
+    border: none;
+    border-top: 3px dotted #cdcbff;
+    letter-spacing: 0.4rem;
+    margin: 100px auto;
+    clear: right;
+    clear: top;
+}
+
+.contact-me {
+    line-height: 2;
+}
+
+button {
+    border: none;
+    border: 0px solid black;
+    border-radius: 20px;
+    background-color: #28ffce;
+    color: white;
+    padding: 5px;
+}
